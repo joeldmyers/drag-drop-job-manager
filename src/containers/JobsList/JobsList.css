@@ -1,0 +1,16 @@
+.row {
+  width: calc(100% - 40px);
+  padding: 20px;
+  background: #fff;
+  border-bottom: 1px solid #808080;
+}
+
+.jobName {
+  width: 50%;
+  display: inline-block;
+}
+
+.jobStatus, .jobButtonCell {
+  width: 25%;
+  display: inline-block;
+}
